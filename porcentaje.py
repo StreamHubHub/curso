@@ -1,1 +1,3 @@
-print("CALCULADORA DE PORCENTAJE")
+print("""--------------------------
+CALCULADORA DE PORCENTAJE
+--------------------------""")
