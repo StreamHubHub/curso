@@ -8,3 +8,5 @@ solamente ingresa el precio final deseado y el porcentaje de impuesto que se te 
 precio_final = input("""
 Inserte el precio final deseado: """)
 impuesto_cobrado = input ("Ingrese el impuesto cobrado: ")
+
+contador = 0
