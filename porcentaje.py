@@ -7,3 +7,4 @@ solamente ingresa el precio final deseado y el porcentaje de impuesto que se te 
 
 input("""
 Inserte el precio final deseado: """)
+input ("Ingrese el impuesto cobrado: ")
