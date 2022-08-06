@@ -11,3 +11,4 @@ impuesto_cobrado = input ("Ingrese el impuesto cobrado: ")
 
 contador = 0
 while contador < precio_final:
+    cambio1
