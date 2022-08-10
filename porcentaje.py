@@ -11,4 +11,5 @@ impuesto_cobrado = input ("Ingrese el impuesto cobrado: ")
 
 contador = 0
 while contador < precio_final:
-    Se agrega un parro
+
+print(El precio final debe ser: ",Contador)
