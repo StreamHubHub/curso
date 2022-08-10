@@ -5,13 +5,12 @@ CALCULADORA DE PORCENTAJE
 print("""Para poder calcular el precio final después del impuesto 
 solamente ingresa el precio final deseado y el porcentaje de impuesto que se te cobrara""")
 
-precio_final = input("""
-Inserte el precio final deseado: """)
-impuesto_cobrado = input ("Ingrese el impuesto cobrado: ")
+precio_final = int(input("""
+Inserte el precio float deseado: """))
+impuesto_cobrado = float(input ("Ingrese el impuesto cobrado: "))
 
-contador = 0
+contador = float(0)
+incremento = precio_final
 while contador < precio_final:
-    Se agrega un parro
-    Commit de prueba
-    Commit desde GitHub
-    Prueba SSH
+    contador = incremento - (incremento*impuesto_cobrado)
+    incremento = incremento + 1
