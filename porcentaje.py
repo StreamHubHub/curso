@@ -8,6 +8,7 @@ solamente ingresa el precio final deseado y el porcentaje de impuesto que se te 
 precio_final = float(input("""
 Inserte el precio deseado: """))
 impuesto_cobrado = float(input ("Ingrese el impuesto cobrado: "))
+impuesto_cobrado = impuesto_cobrado * 0.01
 
 contador = float(0)
 incremento = precio_final
