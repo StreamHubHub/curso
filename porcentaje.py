@@ -16,4 +16,4 @@ while contador < precio_final:
     contador = incremento - (incremento*impuesto_cobrado)
     incremento = incremento + 1
 
-print("El precio final debe ser: ",incremento)
+print("El precio final debe después de impuesto debe ser: ",incremento)
