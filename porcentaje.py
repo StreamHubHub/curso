@@ -18,3 +18,4 @@ while contador < precio_final:
 
 print("El precio final debe después de impuesto debe ser: ",incremento)
 print("Gracias por usar este programa")
+print("...")
