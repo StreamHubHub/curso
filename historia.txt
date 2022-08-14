@@ -2,4 +2,6 @@ Esta es la historia de un robot
 
 usaba PID hasta que un dia
 la D fallo y no mantuvo el equilibrio
-tuvo que llegar un ingeniero a encontrar la D
+tuvo que llegar un ingeniero a encontrar la 
+
+Master 1
