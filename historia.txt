@@ -5,9 +5,3 @@ la D fallo y no mantuvo el equilibrio
 tuvo que llegar un ingeniero a encontrar la 
 
 Master 1
-<<<<<<< HEAD
-Exp 1
-Exp 2
-=======
-Master 2
->>>>>>> 86698a1 (Master 2)
